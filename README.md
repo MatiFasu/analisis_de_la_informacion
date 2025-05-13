@@ -1,4 +1,4 @@
-# Analisis de la Informacion
+# Análisis de la Información
 
 Materia realizada en la Universidad de Palermo
 
